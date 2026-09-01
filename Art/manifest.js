@@ -1,3 +1,1 @@
-window.__arennoiaArtManifest = [
-  "CyanChimes.webp"
-];
+window.__arennoiaArtManifest = [];
