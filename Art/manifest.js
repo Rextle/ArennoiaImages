@@ -1,4 +1,3 @@
 window.__arennoiaArtManifest = [
-  "RextleCreator.webp",
-  "x.png"
+  "RextleCreator.webp"
 ];
