@@ -1,4 +1,4 @@
 window.__arennoiaArtManifest = [
   "CyanChimes.webp",
-  "SeersFlag.webp"
+  "Seers_Flag.webp"
 ];
