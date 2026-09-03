@@ -1,3 +1,4 @@
 window.__arennoiaArtManifest = [
-  "CyanChimes.webp"
+  "CyanChimes.webp",
+  "flager.webp"
 ];
