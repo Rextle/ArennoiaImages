@@ -1,5 +1,5 @@
 window.__arennoiaArtManifest = [
-  "CyanChimes.webp",
+  "Cyan_Chimes.webp",
   "Seers_Flag.webp",
   "StonebridgeSlaz.webp"
 ];
